@@ -1,0 +1,59 @@
+/*geral*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing:0;
+    font-family: "Roboto";
+}
+
+body{
+    display:flex;
+    background-color: black;
+    clear: both;
+}
+
+
+
+.imagem{
+    border-top:5rem ;
+    border-radius: 15%;
+}
+
+
+.imagem1{
+
+    text-align: center;
+    border-radius: 15%;
+    border-top: 8rem;
+}
+
+.imagem1{
+    border-top: 5rem;
+}
+
+h1{
+    text-align: center;
+    color: bisque;
+    margin-top: 3rem;
+    
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    color: bisque;
+
+}
+
+b{
+    text-align: center;
+    color: bisque
+
+}
